@@ -9,7 +9,7 @@ I'm a Fullstack developer who loves React, Typescript and technologies.
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [thanhdaon](https://cv.thanhdaon.me/en)
 * ✉️  You can contact me at [thanhdaon89@gmail.com](mailto:thanhdaon89@gmail.com)
-* 🧠  I'm learning Event Drivent Architecture, React-Query, ...
+* 🧠  I'm learning Event Driven Architecture, React-Query
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
